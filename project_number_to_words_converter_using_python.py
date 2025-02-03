@@ -8,13 +8,11 @@ Original file is located at
 
 # Project: Number to Words Converter
 
-💡 Question:
-
-Write a Python program that converts a given number into its word representation.
+💡 Python Program that converts a given number into its word representation.
 
 
-Each digit of the number should be converted into its corresponding word.
-If the input contains characters that are not digits (0-9), replace them with an exclamation mark (!).
+Each digit of the number is converted into its corresponding word.
+If the input contains characters that are not digits (0-9), it will replace with an exclamation mark (!).
 
 📌 Example:
 
